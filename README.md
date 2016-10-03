@@ -4,4 +4,4 @@
 
 ## 目录
 
-* Chapter 1: [《设计爬虫架构》](https://github.com/henrylee2cn/go_crawler_practice/blob/master/chapter01/01.0.md)
+* Chapter 1: [《设计爬虫架构》](</chapter01/01.0.md>)
